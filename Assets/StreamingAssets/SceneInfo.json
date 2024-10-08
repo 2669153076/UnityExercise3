@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "imgPath": "Image/UI/GameScene1",
+        "name": "枫叶树林",
+        "desc": "金秋时节，枫叶如火，林间小径铺满红毯，美不胜收。",
+        "sceneName": "GameScene1",
+        "money": 100,
+        "towerHp": 100
+    },
+    {
+        "id": 2,
+        "imgPath": "Image/UI/GameScene2",
+        "name": "极寒之地",
+        "desc": "冰雪覆盖，万籁俱寂，极光在天际舞动，增添一抹神秘色彩。",
+        "sceneName": "GameScene2",
+        "money": 200,
+        "towerHp": 100
+    },
+    {
+        "id": 3,
+        "imgPath": "Image/UI/GameScene3",
+        "name": "熔岩山脉",
+        "desc": "熔岩翻滚，火焰冲天，岩石焦黑，展现大自然最狂野的力量。",
+        "sceneName": "GameScene3",
+        "money": 500,
+        "towerHp": 100
+    }
+]

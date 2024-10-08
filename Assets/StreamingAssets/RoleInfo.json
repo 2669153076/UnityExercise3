@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "resPath": "Role/1",
+        "atk": 20,
+        "name": "刀",
+        "lockMoney": 0,
+        "type": 1,
+        "hitEffectPath": "effect/1"
+    },
+    {
+        "id": 2,
+        "resPath": "Role/2",
+        "atk": 30,
+        "name": "手枪",
+        "lockMoney": 0,
+        "type": 2,
+        "hitEffectPath": "effect/1"
+    },
+    {
+        "id": 3,
+        "resPath": "Role/3",
+        "atk": 40,
+        "name": "巴雷特",
+        "lockMoney": 0,
+        "type": 2,
+        "hitEffectPath": "effect/1"
+    },
+    {
+        "id": 4,
+        "resPath": "Role/4",
+        "atk": 50,
+        "name": "半自动步枪",
+        "lockMoney": 500,
+        "type": 2,
+        "hitEffectPath": "effect/1"
+    },
+    {
+        "id": 5,
+        "resPath": "Role/5",
+        "atk": 60,
+        "name": "狙击枪",
+        "lockMoney": 1000,
+        "type": 2,
+        "hitEffectPath": "effect/1"
+    },
+    {
+        "id": 6,
+        "resPath": "Role/6",
+        "atk": 70,
+        "name": "大炮",
+        "lockMoney": 1500,
+        "type": 2,
+        "hitEffectPath": "effect/1"
+    },
+    {
+        "id": 7,
+        "resPath": "Role/7",
+        "atk": 80,
+        "name": "半自动手枪",
+        "lockMoney": 2000,
+        "type": 2,
+        "hitEffectPath": "effect/1"
+    },
+    {
+        "id": 8,
+        "resPath": "Role/8",
+        "atk": 90,
+        "name": "弓弩",
+        "lockMoney": 2500,
+        "type": 2,
+        "hitEffectPath": "effect/1"
+    }
+]

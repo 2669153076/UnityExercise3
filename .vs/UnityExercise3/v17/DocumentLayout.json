@@ -1,0 +1,463 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\beginscene\\bkmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beginscene\\bkmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\data\\gamedatamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\gamedatamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise3\\assets\\scripts\\json\\litjson\\jsonmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\json\\litjson\\jsonmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\data\\musicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\musicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\gamescene\\object\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\object\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\gamescene\\object\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\object\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\beginscene\\ui\\roleselpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beginscene\\ui\\roleselpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise3\\assets\\scripts\\gamescene\\object\\towercreatepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\object\\towercreatepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\gamescene\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise3\\assets\\scripts\\gamescene\\ui\\towerbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\ui\\towerbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\gamescene\\gamelevelmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\gamelevelmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\gamescene\\object\\enemycreatepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\object\\enemycreatepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\data\\towerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\towerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\gamescene\\camera\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\camera\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\beginscene\\ui\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beginscene\\ui\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\data\\enemyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\enemyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\beginscene\\ui\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beginscene\\ui\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\data\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\json\\jsonmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\json\\jsonmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\data\\sceneinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\sceneinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\data\\roleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\roleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\gamescene\\ui\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\ui\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\gamescene\\object\\protectedtower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\object\\protectedtower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise3\\assets\\scripts\\beginscene\\ui\\sceneselpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F3B2D-F3C6-8291-F225-DDD5DBBA012C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beginscene\\ui\\sceneselpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonMapper.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Json\\LitJson\\JsonMapper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Json\\LitJson\\JsonMapper.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Json\\LitJson\\JsonMapper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Json\\LitJson\\JsonMapper.cs",
+              "ViewState": "AQIAAG8BAAAAAAAAAAAnwHwBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:28:54.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\Object\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Object\\Enemy.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\Object\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Object\\Enemy.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:48:51.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\Object\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Object\\Player.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\Object\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Object\\Player.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAADwv1cAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:02:24.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BKMusic.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\BeginScene\\BKMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BeginScene\\BKMusic.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\BeginScene\\BKMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BeginScene\\BKMusic.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:01:23.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicData.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\MusicData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\MusicData.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\MusicData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\MusicData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:12:35.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameDataMgr.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\GameDataMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\GameDataMgr.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\GameDataMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\GameDataMgr.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:01:21.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:17:44.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TowerCreatePoint.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\Object\\TowerCreatePoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Object\\TowerCreatePoint.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\Object\\TowerCreatePoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Object\\TowerCreatePoint.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:30:19.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GamePanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\UI\\GamePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\UI\\GamePanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\UI\\GamePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\UI\\GamePanel.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAA3wIgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:47:31.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TowerBtn.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\UI\\TowerBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\UI\\TowerBtn.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\UI\\TowerBtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\UI\\TowerBtn.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:40:17.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleSelPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\BeginScene\\UI\\RoleSelPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BeginScene\\UI\\RoleSelPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\BeginScene\\UI\\RoleSelPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BeginScene\\UI\\RoleSelPanel.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAADwv2sAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:15:28.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyCreatePoint.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\Object\\EnemyCreatePoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Object\\EnemyCreatePoint.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\Object\\EnemyCreatePoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Object\\EnemyCreatePoint.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA3wDwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:30:02.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SettingPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\BeginScene\\UI\\SettingPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BeginScene\\UI\\SettingPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\BeginScene\\UI\\SettingPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BeginScene\\UI\\SettingPanel.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwBMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:42:13.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameLevelMgr.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\GameLevelMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\GameLevelMgr.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\GameLevelMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\GameLevelMgr.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAA3wIkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:45:49.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CameraMove.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\Camera\\CameraMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Camera\\CameraMove.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\Camera\\CameraMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Camera\\CameraMove.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:59:13.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TowerInfo.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\TowerInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\TowerInfo.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\TowerInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\TowerInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:35:06.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnemyInfo.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\EnemyInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\EnemyInfo.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\EnemyInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\EnemyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:36:31.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAewCkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:40:32.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Test.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:27:38.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BeginPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\BeginScene\\UI\\BeginPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BeginScene\\UI\\BeginPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\BeginScene\\UI\\BeginPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BeginScene\\UI\\BeginPanel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvyMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:16:00.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\PlayerData.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\PlayerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:36:34.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JsonMgr.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Json\\JsonMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Json\\JsonMgr.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Json\\JsonMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Json\\JsonMgr.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwEIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:06:29.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SceneInfo.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\SceneInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\SceneInfo.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\SceneInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\SceneInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:09:36.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleInfo.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\RoleInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\RoleInfo.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\Data\\RoleInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\RoleInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:36:24.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GameOverPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\UI\\GameOverPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\UI\\GameOverPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\UI\\GameOverPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\UI\\GameOverPanel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwCQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:33:15.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProtectedTower.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\Object\\ProtectedTower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Object\\ProtectedTower.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\GameScene\\Object\\ProtectedTower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Object\\ProtectedTower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:25:59.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SceneSelPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\BeginScene\\UI\\SceneSelPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BeginScene\\UI\\SceneSelPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise3\\Assets\\Scripts\\BeginScene\\UI\\SceneSelPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BeginScene\\UI\\SceneSelPanel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvxwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:52:05.721Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
